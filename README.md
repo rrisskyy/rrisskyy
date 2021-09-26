@@ -22,12 +22,10 @@
 <a href="https://instagram.com/rrisskyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rrisskyy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/risky kurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="risky kurniawan" height="30" width="40" /></a>
 </p>
-
+<br><br>
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
-<br><br>
-<br><br>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -54,11 +52,11 @@
   <a href="https://expressjs.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a> 
-  <br>
+  <br><br>
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
-  <br>
+  <br><br>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
