@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/rrisskyy/portfolio)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Tailwind CSS**
 
 - 🤝 I’m looking for help with [Toko alat pancing](https://github.com/rrisskyy/TOKOPANCING)
 
