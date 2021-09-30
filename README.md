@@ -65,4 +65,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rrisskyy&show_icons=true&locale=en&layout=compact" alt="rrisskyy" /></p>
 
-<p><img align="center" width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=rrisskyy&" alt="rrisskyy" /></p>
