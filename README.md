@@ -13,6 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://rrisskyy.github.io/toko_pancing](https://rrisskyy.github.io/toko_pancing)
 
+- ⚡ Fun fact **I have Alliumphobia**
+
 - 📫 How to reach me **riskykurniawan945@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
