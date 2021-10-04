@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Toko alat pancing](https://github.com/rrisskyy/TOKOPANCING)
 
-- 👨‍💻 All of my projects are available at [https://rrisskyy.github.io/toko_pancing](https://rrisskyy.github.io/toko_pancing)
+- 👨‍💻 All of my projects are available at [https://rrisskyy.github.io/portfolio/](https://rrisskyy.github.io/portfolio/)
 
 - ⚡ Fun fact **I have Alliumphobia**😂
 
