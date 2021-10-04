@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://rrisskyy.github.io/portfolio/)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/rrisskyy/portfolio)
 
 - 🌱 I’m currently learning **React & Tailwind CSS**
 
