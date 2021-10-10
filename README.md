@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React & Tailwind CSS**
 
-- 🤝 I’m looking for help with [Toko alat pancing](https://github.com/rrisskyy/TOKOPANCING)
+- 🤝 I’m looking for help with [Toko alat pancing](https://github.com/rrisskyy/tokopancing)
 
 - 👨‍💻 All of my projects are available at [https://rrisskyy.github.io/portfolio/](https://rrisskyy.github.io/portfolio/)
 
