@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rrisskyy.github.io/toko_pancing](https://rrisskyy.github.io/toko_pancing) -->
 
-- 📫 How to reach me **riskykurniawan945@gmail.com**
+<!-- - 📫 How to reach me **riskykurniawan945@gmail.com** -->
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/riskykrnawan/](https://www.linkedin.com/in/riskykrnawan/)
 
