@@ -14,7 +14,7 @@
 
 <!-- - 📫 How to reach me **riskykurniawan945@gmail.com** -->
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/riskykrnawan/](https://www.linkedin.com/in/riskykrnawan/)
+<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/riskykrnawan/](https://www.linkedin.com/in/riskykrnawan/) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
