@@ -1,1 +1,4 @@
-cuma akun untuk naroh hasil latihan
+Akun untuk naroh hasil latihan
+
+
+[Main account]: https://github.com/riskykrnawan
